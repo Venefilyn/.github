@@ -14,4 +14,4 @@ Please contact me through freya@venefilyn.se to report any security vulnerabilit
 
 # License
 
-Consult the LICENSE.md file for more.
+Consult this repository LICENSE file for more.
